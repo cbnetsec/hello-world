@@ -1,1 +1,1 @@
-hello-world - Initial setup
+hello-world - Initial setup complete.
